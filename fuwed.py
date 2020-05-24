@@ -16,6 +16,7 @@ def PointsToVGroup(points):
         width=1,
         opacity=0.8,
     )
+    return faces
 
 
 class Volume(ThreeDScene):
